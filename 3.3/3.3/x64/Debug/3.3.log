@@ -1,0 +1,4 @@
+﻿  3.3.cpp
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\І семестр\ООП\3.3\3.3\3.3.cpp(94,28): warning C4305: 'argument': truncation from 'int' to 'unsigned char'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\І семестр\ООП\3.3\3.3\3.3.cpp(94,22): warning C4309: 'argument': truncation of constant value
+  3.3.vcxproj -> C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\І семестр\ООП\3.3\x64\Debug\3.3.exe
